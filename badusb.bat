@@ -1,6 +1,6 @@
 ::infected!
 @echo OFF
-Title Earth ASCII Animation
+Title infected!
 color 0A
 echo.
 :earth
